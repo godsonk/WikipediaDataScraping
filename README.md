@@ -6,4 +6,4 @@ Wikipedia is one of the well furnished websites that is not scraping friendly bu
 
 The structures of wikipedia sub domains (each subdomain corresponding to a different language) often differ from each other. In this repository I have provided two scripts to scrape data from Kabiye (one of the two national languages of Togo republic) subdomain of Wikipedia. The scripts can be used for any other language/subdomain. The articles are organized into a csv file having columns title , content, url and categories.
 
-This script has been used to generate part of one of the the winning datasets at The AI4D African Languages Dataset challenge. The complete dataset is available here.
+This script has been used to generate part of one of the the winning datasets at The [AI4D African Languages Dataset challenge](https://zindi.africa/competitions/ai4d-african-language-dataset-challenge/). The complete dataset is available [here](https://github.com/TakwimuAfrica/Takwimu/).
